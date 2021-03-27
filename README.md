@@ -2,7 +2,7 @@
 Webhook
 :pushpin: Voici le règlement qui est à lire avec attention
 
-:round_pushpin: 1. Soyez poli. 
+:round_pushpin: 1. Soyez poli.
 
 Nous nous attendons à ce que les membres de cette communauté soient polis et aimables envers les autres membres de la communauté. La plaisanterie, c'est bien, mais ne dépassez pas les limites.
 :round_pushpin: 2. Respect de la santé mentale
